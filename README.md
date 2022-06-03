@@ -7,7 +7,7 @@ investing in.
 # Summary
 
 The bulk of what is going to be graded this chapter is the included [crypto_clustering](crypto_clustering.ipynb) Notebook.
-Four deliverables of analysis are contined in there:
+Four deliverables of analysis are contained in there:
 
 * Deliverable 1: Preprocessing the Data for PCA
 * Deliverable 2: Reducing Data Dimensions Using PCA
